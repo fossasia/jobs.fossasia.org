@@ -1,3 +1,3 @@
-Site for 2018.fossasia.org Summit
+Site for FOSSASIA Jobs Sites - jobs.fossasia.org
 
-http://2018.fossasia.org
+http://blog.fossasia.org/jobs/
